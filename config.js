@@ -13,4 +13,3 @@ const CONFIG = {
     mess: 'Tớ biết mà. Tớ sẽ cố gắng để tỏ tình và mang lại cho cô ấy hạnh phúc nhiều ơi là nhiều ',
     messDesc: 'Để tớ trao cô ấy những điều trân thành và dịu dàng nhất.',
     btnAccept: 'Okiiiii lun <3'.
-}
