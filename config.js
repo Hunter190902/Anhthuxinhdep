@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "AnhThuxinhnhat",
-    introTitle: 'Wowww, hình như cóa nàng công túa xinh đẹp nào đósinh ngày 19/4 bật web hả taa! ',
+    introTitle: 'Wowww, hình như cóa nàng công túa xinh đẹp nào đó sinh ngày 19/4 bật web hả taa! ',
     introDesc: `Nhma cô ấy hay tự ôm việc nìa, hong có nghĩ đến sức khỏe nè, đôi khi còn tin người quá mức nựaa, còn nhiều lúc bảo là mình gất hung dữ mà hiền khô để cho ngta ăn hiếp hong lun ó :<`,
     btnIntro: 'hic hic, có hả ',
     title: 'Aizaa, con bé công túa nì toàn làm ngta lo kh àa, nhiều lúc hong bíc làm sao lun.',
